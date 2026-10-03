@@ -2,15 +2,15 @@
 
 [Home](../README.md) · [Assignment](../assignment.md) · [Template](../reference/page-templates.md)
 
-Agree on six modernist styles. Create one page per style with characteristics, historical context, two historical examples, and authoritative sources.
+Agree on six modernist styles. Create one page per style with characteristics, historical context, and authoritative sources.
 
 The lead fills in owners and replaces “Add page link” with a link when each page exists.
 
 | Topic | Owner | Page |
 |---|---|---|
-| Style 1 — choose as a team | Assign owner | Add page link |
-| Style 2 — choose as a team | Assign owner | Add page link |
-| Style 3 — choose as a team | Assign owner | Add page link |
-| Style 4 — choose as a team | Assign owner | Add page link |
-| Style 5 — choose as a team | Assign owner | Add page link |
-| Style 6 — choose as a team | Assign owner | Add page link |
+| Bauhaus | Jishnu / Vishnu | [Page](bauhaus.md) |
+| Swiss / International Style | Jishnu / Vishnu | [Page](swiss-style.md) |
+| Art Deco | Matthew | [Page](art-deco.md) |
+| Mid-Century Modern | Matthew | [Page](mid-century-modern.md) |
+| De Stijl | Mayumi | [Page](de-stijl.md) |
+| Constructivism | Rajveer | [Page](constructivism.md) |

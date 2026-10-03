@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Creator archetype Modernist Bauhaus hero design</title>
+  <desc id="desc">A refined Bauhaus-inspired creator hero with strict geometry, primary colors, and a disciplined layout that communicates craft, clarity, and built-from-scratch originality.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f2efe8; }
+      .black { fill: #171717; }
+      .red { fill: #d94a2a; }
+      .yellow { fill: #efca38; }
+      .blue { fill: #214dd8; }
+      .cream { fill: #f7f1ea; }
+      .purple { fill: #673cc5; }
+      .label { font-family: Arial, Helvetica, sans-serif; font-weight: 800; letter-spacing: 0.18em; font-size: 18px; }
+      .headline { font-family: Arial, Helvetica, sans-serif; font-weight: 900; letter-spacing: -0.08em; }
+      .sub { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 28px; }
+      .cta { font-family: Arial, Helvetica, sans-serif; font-weight: 900; letter-spacing: 0.12em; font-size: 18px; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="800"/>
+
+  <rect class="black" x="0" y="0" width="1200" height="110"/>
+  <rect class="red" x="0" y="110" width="220" height="690"/>
+  <rect class="yellow" x="220" y="110" width="260" height="260"/>
+  <rect class="blue" x="480" y="110" width="300" height="260"/>
+  <rect class="cream" x="780" y="110" width="420" height="470"/>
+  <rect class="black" x="780" y="580" width="420" height="220"/>
+
+  <rect class="black" x="90" y="510" width="430" height="150"/>
+  <rect class="yellow" x="520" y="430" width="120" height="220"/>
+  <rect class="red" x="925" y="650" width="190" height="80"/>
+
+  <text x="95" y="66" class="label" fill="#f7f1ea">CREATOR / BAUHAUS</text>
+
+  <text x="260" y="235" class="headline" fill="#171717" font-size="118">FORM</text>
+  <text x="260" y="360" class="headline" fill="#171717" font-size="118">MEETS</text>
+  <text x="260" y="485" class="headline" fill="#171717" font-size="118">FUNCTION</text>
+
+  <text x="120" y="600" class="sub" fill="#f7f1ea">DESIGNED FOR MAKERS</text>
+
+  <text x="820" y="250" class="headline" fill="#171717" font-size="90">BUILD</text>
+  <text x="820" y="355" class="headline" fill="#d94a2a" font-size="90">WITH</text>
+  <text x="820" y="460" class="headline" fill="#171717" font-size="90">CLARITY</text>
+
+  <text x="820" y="520" class="sub" fill="#171717">craft, strategy, and intention</text>
+
+  <text x="855" y="690" class="cta" fill="#f7f1ea">START THE PROJECT</text>
+
+  <circle class="blue" cx="1040" cy="190" r="68"/>
+  <circle class="yellow" cx="1115" cy="285" r="52"/>
+  <rect class="red" x="540" y="110" width="70" height="230"/>
+  <rect class="black" x="610" y="110" width="70" height="230"/>
+  <rect class="purple" x="678" y="110" width="100" height="100"/>
+</svg>

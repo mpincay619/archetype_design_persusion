@@ -8,9 +8,9 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 
 | Topic | Owner | Page |
 |---|---|---|
-| Style 1 — choose as a team | Assign owner | Add page link |
-| Style 2 — choose as a team | Assign owner | Add page link |
-| Style 3 — choose as a team | Assign owner | Add page link |
-| Style 4 — choose as a team | Assign owner | Add page link |
-| Style 5 — choose as a team | Assign owner | Add page link |
-| Style 6 — choose as a team | Assign owner | Add page link |
+| Memphis Group | Jishnu / Vishnu | [Page](memphis-group.md) |
+| Vaporwave | Matthew | [Page](vaporwave.md) |
+| Punk & Grunge | Mayumi | [Page](punk-grunge.md) |
+| New Wave | Mayumi | [Page](new-wave.md) |
+| Deconstructivism | Rajveer | [Page](deconstructivism.md) |
+| Digital Brutalism | Rajveer | [Page](brutalism.md) |

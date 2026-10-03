@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">PLAIN CANVAS — Ruler archetype modernist hero</title>
+  <desc id="desc">A Swiss-inspired two-column website hero. The left column presents a free t-shirt care guide. An original vector portrait of an adult in a white t-shirt looks inward from the right.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8e8df"/>
+      <stop offset="1" stop-color="#d7ddd3"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffefa"/>
+      <stop offset="0.58" stop-color="#f3f2ec"/>
+      <stop offset="1" stop-color="#dcded8"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c98762"/>
+      <stop offset="1" stop-color="#a85e43"/>
+    </linearGradient>
+    <pattern id="fine-grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#4d5d4b" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1536" height="1024" fill="#f5f2e9"/>
+  <rect x="768" width="768" height="1024" fill="url(#panel)"/>
+  <rect x="768" width="768" height="1024" fill="url(#fine-grid)"/>
+
+  <g fill="none" stroke="#35483b" stroke-opacity=".14">
+    <path d="M824 72V952M1480 72V952" stroke-width="1"/>
+    <path d="M824 128H1480M824 896H1480" stroke-width="1"/>
+    <path d="M872 128V896M1432 128V896" stroke-width="1"/>
+  </g>
+  <path d="M868 896V386a284 284 0 0 1 568 0v510Z" fill="#e4e4da"/>
+  <path d="M906 896V392a246 246 0 0 1 492 0v504Z" fill="#dce1d7"/>
+  <path d="M928 896V448M1376 896V448" stroke="#c3cabe" stroke-width="2"/>
+  <path d="M880 896H1424" stroke="#b9c1b7" stroke-width="2"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="88" y="92" fill="#193b2b" font-size="27" font-weight="700" letter-spacing="3.5">PLAIN CANVAS</text>
+    <path d="M88 118H260" stroke="#193b2b" stroke-width="2"/>
+    <text x="88" y="157" fill="#536257" font-size="12" font-weight="700" letter-spacing="2.3">PREMIUM ORGANIC COTTON</text>
+
+    <text x="88" y="291" fill="#244432" font-size="14" font-weight="700" letter-spacing="2.4">THE RULER  /  BUILT ON PRINCIPLE</text>
+    <text x="84" y="400" fill="#17221b" font-size="70" font-weight="700" letter-spacing="-3">Everyday,</text>
+    <text x="84" y="484" fill="#17221b" font-size="70" font-weight="700" letter-spacing="-3">held to a</text>
+    <text x="84" y="568" fill="#17221b" font-size="70" font-weight="700" letter-spacing="-3">higher standard.</text>
+
+    <path d="M88 650H160" stroke="#244432" stroke-width="5"/>
+    <text x="88" y="704" fill="#49544b" font-size="22">A premium heavyweight organic cotton tee,</text>
+    <text x="88" y="739" fill="#49544b" font-size="22">made for a considered everyday. Get our free</text>
+    <text x="88" y="774" fill="#49544b" font-size="22">guide to making your essentials last.</text>
+
+    <rect x="88" y="818" width="374" height="72" rx="3" fill="#193b2b"/>
+    <text x="275" y="864" fill="#fffefa" font-size="18" font-weight="700" text-anchor="middle" letter-spacing=".2">Get the free care guide</text>
+    <text x="88" y="922" fill="#5b635c" font-size="15">PDF download. No email required.</text>
+
+    <text x="824" y="966" fill="#415247" font-size="12" font-weight="700" letter-spacing="1.8">01  /  THE EVERYDAY TEE</text>
+    <text x="1480" y="966" fill="#415247" font-size="12" text-anchor="end" letter-spacing="1.5">HEAVYWEIGHT  ·  ORGANIC COTTON</text>
+  </g>
+
+  <ellipse cx="1187" cy="923" rx="250" ry="34" fill="#657065" opacity=".2" filter="url(#soft-shadow)"/>
+
+  <!-- Original vector portrait: fictional adult in a plain white crewneck tee. -->
+  <path d="M891 1024c15-126 39-237 112-312 39-40 99-60 180-60 102 0 176 31 216 93 48 74 72 171 89 279Z" fill="#29382e"/>
+  <path d="M1007 722c34-37 76-58 127-65l63 70 62-70c52 8 97 30 132 73l76 294H914Z" fill="url(#shirt)"/>
+  <path d="M1132 670c12 41 34 63 66 63 34 0 57-22 70-63l-8-81h-121Z" fill="url(#skin)"/>
+  <path d="M1085 468c4-104 58-171 148-171 91 0 146 68 144 171l-10 107c-4 57-49 104-113 115-67 11-129-35-146-92-11-37-25-83-23-130Z" fill="url(#skin)"/>
+  <path d="M1080 448c-8-82 17-148 71-184 31-21 76-31 125-21 59 12 99 49 113 108 8 32 3 76-8 101-6-44-24-72-55-87-33-17-64-18-100-11-40 8-75 1-106-14-3 35-16 70-40 108Z" fill="#24251f"/>
+  <path d="M1081 432c-17 17-24 43-17 74 5 25 19 45 38 51l-8-73Z" fill="#302b25"/>
+  <path d="M1216 336c19-31 54-48 91-43 28 4 48 16 63 36-21-53-62-82-117-81-49 1-82 26-102 66 18 13 40 20 65 22Z" fill="#302b25"/>
+  <path d="M1097 438c26-13 56-18 88-15-17 6-30 15-41 28-17-6-32-10-47-13Z" fill="#34251f"/>
+  <path d="M1097 444c18-7 36-9 54-7-15 10-31 13-48 11Z" fill="#f1dfc9"/>
+  <ellipse cx="1126" cy="442" rx="5" ry="5" fill="#25251f"/>
+  <path d="M1072 469c-17 8-29 17-39 29 15 7 29 7 42 0" fill="none" stroke="#8e4d39" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1085 522c20 4 39 2 55-7-16 19-37 24-58 16Z" fill="#713d34"/>
+  <path d="M1090 527c16 7 31 8 44 1" fill="none" stroke="#f1d5bf" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1255 464c17-5 28 7 29 27 1 24-12 44-29 45" fill="none" stroke="#9b563f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1258 479c8 2 12 8 11 17-1 8-5 13-12 15" fill="none" stroke="#d69a75" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1196 593c24 17 50 22 78 12" fill="none" stroke="#904d3a" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+
+  <path d="M1090 719c29 27 67 42 111 42 42 0 78-14 108-41" fill="none" stroke="#d1d2cb" stroke-width="4"/>
+  <path d="M1130 676c19 27 41 41 67 41s50-14 70-41" fill="none" stroke="#c6c8c0" stroke-width="3"/>
+  <path d="M1000 732c-29 45-48 112-56 200M1333 732c35 53 53 126 64 200" fill="none" stroke="#e2e1da" stroke-width="3"/>
+  <path d="M1183 761v218M1220 760v219M1257 760v218" stroke="#e1e0d9" stroke-opacity=".45" stroke-width="1"/>
+  <path d="M1013 727c17 15 39 26 67 31M1317 728c-16 15-38 25-64 30" fill="none" stroke="#b9bbb4" stroke-width="2"/>
+
+  <rect x="768" width="768" height="1024" fill="none" stroke="#f5f2e9" stroke-width="2"/>
+</svg>

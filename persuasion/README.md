@@ -8,10 +8,10 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 
 | Topic | Owner | Page |
 |---|---|---|
-| Reciprocity | Assign owner | Add page link |
-| Commitment / consistency | Assign owner | Add page link |
-| Social proof | Assign owner | Add page link |
-| Authority | Assign owner | Add page link |
-| Liking | Assign owner | Add page link |
-| Scarcity | Assign owner | Add page link |
-| Unity | Assign owner | Add page link |
+| Reciprocity | Mayumi | [Page](reciprocity.md) |
+| Commitment / consistency | Rajveer | [Page](consistency.md) |
+| Social proof | Jishnu / Vishnu | [Page](social-proof.md) |
+| Authority | Rajveer | [Page](authority.md) |
+| Liking | Mayumi | [Page](liking.md) |
+| Scarcity | Jishnu / Vishnu | [Page](scarcity.md) |
+| Unity | Matthew | [Page](unity.md) |
