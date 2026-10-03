@@ -10,7 +10,7 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 |---|---|---|
 | Memphis Group | Jishnu / Vishnu | [Page](memphis-group.md) |
 | Vaporwave | Matthew | [Page](vaporwave.md) |
-| Punk & Grunge | Mayumi | [Page](punk-grunge.md) |
-| New Wave | Mayumi | [Page](new-wave.md) |
-| Deconstructivism | Rajveer | [Page](deconstructivism.md) |
-| Digital Brutalism | Rajveer | [Page](brutalism.md) |
+| Punk & Grunge | Mayumi | [Page](punk_grunge.md) |
+| New Wave | Mayumi | [Page](new_wave.md) |
+| Deconstructivism | Rajveer | Add page link |
+| Digital Brutalism | Rajveer | Add page link |
