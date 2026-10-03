@@ -13,7 +13,7 @@ Use the archetype when an audience values leadership, reliability, security, hig
 ![Original vector Ruler hero mockup: a fictional adult in a plain white t-shirt looks toward the copy in a strict two-column layout.](../assets/heroes/ruler/modernist.svg)
 
 Archetype: Ruler
-Style: [Swiss / International Typographic Style](https://books.google.com/books?vid=ISBN9783721201451)
+Style: [Swiss / International Typographic Style](../modernism/swiss-style.md)
 Persuasion: Reciprocity
 Headline: “Everyday, held to a higher standard.”
 CTA: “Get the free care guide” — download the PDF without providing an email.
@@ -24,7 +24,7 @@ The Ruler’s promise of high standards comes through in the assured headline, d
 ![Memphis-inspired postmodernist Ruler hero mockup: a fictional adult in a plain white t-shirt looks inward toward the copy, framed by playful lavender, coral, and yellow geometry.](../assets/heroes/ruler/postmodernist.svg)
 
 Archetype: Ruler
-Style: [Memphis design](https://memphis.it/)
+Style: [Memphis design](../postmodernism/memphis-group.md)
 Persuasion: Reciprocity
 Headline: “The everyday, under your command.”
 CTA: “Get the free care guide” — download the PDF without providing an email.
