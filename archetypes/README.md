@@ -1,22 +1,26 @@
-# Archetypes
+# The Everyman
+[Back to this section](README.md) · [Home](../README.md)
 
-[Home](../README.md) · [Assignment](../assignment.md) · [Template](../reference/page-templates.md)
+## What is it?
 
-Create one page per archetype with two original hero designs: one modernist and one postmodernist. A third is optional.
+## How do you recognize or use it?
 
-The lead fills in owners and replaces “Add page link” with a link when each page exists.
+## Examples
 
-| Topic | Owner | Page |
-|---|---|---|
-| Innocent | Assign owner | Add page link |
-| Everyperson / Everyman | Assign owner | Add page link |
-| Hero | Assign owner | Add page link |
-| Caregiver | Assign owner | Add page link |
-| Explorer | Assign owner | Add page link |
-| Rebel / Outlaw | Assign owner | Add page link |
-| Lover | Assign owner | Add page link |
-| Creator | Assign owner | Add page link |
-| Jester | Assign owner | Add page link |
-| Sage | Assign owner | Add page link |
-| Magician | Assign owner | Add page link |
-| Ruler | Assign owner | Add page link |
+### Example 1
+
+Archetype: Everyman  
+Style:  
+Persuasion:  
+Headline:  
+CTA:  
+
+### Example 2
+
+Archetype: Everyman  
+Style:  
+Persuasion:  
+Headline:  
+CTA:  
+
+## Sources
