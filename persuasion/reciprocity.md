@@ -22,3 +22,4 @@ This principle works because it changes the emotional frame from “I am being m
 - [Nielsen Norman Group: The Psychology of Free](https://www.nngroup.com/articles/psychology-of-free/) — how value-first offers shape user behavior and decision-making.
 - [Behavioral Scientist: Why Reciprocity Works](https://behavioralscientist.org/why-reciprocity-works/) — practical explanation of the social obligation created by giving before asking.
 
+
