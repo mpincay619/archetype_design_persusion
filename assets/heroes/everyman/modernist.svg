@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Common Cup — modernist neighborhood coffee hero</title>
+  <desc id="desc">A clean cream and forest green layout with a coffee cup illustration and the headline Good coffee. No big production.</desc>
+  <rect width="1200" height="650" fill="#f4f1e8"/>
+  <rect x="42" y="38" width="1116" height="574" fill="none" stroke="#243b32" stroke-width="2"/>
+  <text x="78" y="92" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#243b32">COMMON CUP</text>
+  <text x="1120" y="91" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#5d685f">YOUR NEIGHBORHOOD COFFEE</text>
+  <line x1="78" y1="116" x2="1120" y2="116" stroke="#b6b7ab"/>
+  <text x="78" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#bd6848">BREWED FRESH, EVERY DAY</text>
+  <text x="78" y="260" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-3" fill="#243b32">Good coffee.</text>
+  <text x="78" y="326" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-3" fill="#243b32">No big</text>
+  <text x="78" y="392" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-3" fill="#bd6848">production.</text>
+  <text x="80" y="438" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#59645d">Your familiar cup, made with care and ready</text>
+  <text x="80" y="463" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#59645d">when the day gets going.</text>
+  <rect x="78" y="492" width="194" height="56" fill="#243b32"/>
+  <text x="175" y="527" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#fff">ORDER A CUP →</text>
+  <text x="78" y="577" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#73766f">OPEN DAILY · 7 AM–4 PM</text>
+  <line x1="650" y1="145" x2="650" y2="572" stroke="#c3c2b7"/>
+  <circle cx="883" cy="355" r="174" fill="#d9dfd2"/>
+  <path d="M774 291h203v171c0 56-44 100-101 100h-1c-57 0-101-44-101-100z" fill="#fffdf6" stroke="#243b32" stroke-width="5"/>
+  <path d="M977 326h33c41 0 54 31 54 63s-13 63-54 63h-34" fill="none" stroke="#243b32" stroke-width="13"/>
+  <path d="M793 333h166v54H793z" fill="#76513e"/>
+  <path d="M812 273c-22-26 20-38 1-65m61 65c-22-26 20-38 1-65m60 65c-22-26 20-38 1-65" fill="none" stroke="#bd6848" stroke-width="5" stroke-linecap="round"/>
+  <text x="876" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#243b32">COMMON</text>
+  <text x="876" y="448" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#243b32">CUP</text>
+  <text x="1119" y="578" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#73766f">01 / 02</text>
+</svg>
