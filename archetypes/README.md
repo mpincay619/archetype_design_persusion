@@ -9,13 +9,13 @@ The lead fills in owners and replaces “Add page link” with a link when each 
 | Topic | Owner | Page |
 |---|---|---|
 | Innocent | Matthew | [Page](innocent.md) |
-| Everyperson / Everyman | Mayumi | [Page](everyperson.md) |
+| Everyperson / Everyman | Mayumi | [Page](everyman.md) |
 | Hero | Vishnu | [Page](hero.md) |
 | Caregiver | Mayumi | [Page](caregiver.md) |
 | Explorer | Matthew | [Page](explorer.md) |
 | Rebel / Outlaw | Vishnu | [Page](outlaw.md) |
 | Lover | Rajveer | [Page](lover.md) |
-| Creator | Rajveer | [Page](creator.md) |
+| Creator | Mayumi | [Page](creator.md) |
 | Jester | Rajveer | [Page](jester.md) |
 | Sage | Matthew | [Page](sage.md) |
 | Magician | Vishnu | [Page](magician.md) |
